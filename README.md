@@ -64,7 +64,7 @@ Para rodar a aplicação que apliquei alguns conceitos de acessibilidade e usei 
 **Pré-requisitos**
   - É **necessário** um gerenciador de pacotes (**[NPM](https://www.npmjs.com/)**, **[Yarn](https://yarnpkg.com/)**, etc)
 
-Neste exemplo vou user o yarn.
+Neste exemplo vou usar o yarn.
 
 1. Faça um clone:
 
